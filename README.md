@@ -34,4 +34,9 @@ Images were taken by a drone, because time limitations I only labeled 13 images 
 
 https://user-images.githubusercontent.com/102746511/185192696-3ff55731-2923-49e2-9107-3e25749447dc.mp4
 
+## *Discussion*
 
+
+
+
+## *Next steps*
