@@ -7,4 +7,4 @@ Inspired by some works and articles, I took pictures of citrus trees in the Sevi
 Images were took by a drone, some exaples bellow:
 
 
-<img src="https://github.com/mlionl/Orange-Detection/DJI_0053.JPG" width="48">
+<img src="https://github.com/Orange-Detection/DJI_0053.JPG" width="48">
