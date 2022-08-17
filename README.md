@@ -2,7 +2,7 @@
 
 ## *Description*
 
-Inspired by some works and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approach to an estimation system for localization adn counting oranges is the main objective of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. 
+Inspired by some works and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approach to an estimation system for localization and counting oranges is the main objective of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. 
 
 ## *Data*
 
@@ -17,4 +17,20 @@ Images were taken by a drone, because time limitations I only labeled 13 images 
   <img src="https://user-images.githubusercontent.com/102746511/185050290-19eaa08b-a330-4e58-af20-d43381b24025.JPG" width="245" />
   <img src="https://user-images.githubusercontent.com/102746511/185050473-49a06099-0f8f-4199-9cf4-65e82666072f.JPG" width="245" />
 </p>
+
+### *Labeling process*
+
+
+
+
+## *Model*
+
+
+
+
+
+
+## *Results*
+
+https://user-images.githubusercontent.com/102746511/185191810-beb907a4-3910-427b-872e-80fc3d99ebb6.mp4
 
