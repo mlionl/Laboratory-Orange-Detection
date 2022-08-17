@@ -6,14 +6,9 @@ Inspired by some works and articles, I took pictures of citrus trees in the Sevi
 
 Images were took by a drone, some exaples bellow:
 
-
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG)  |  ![](https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG)
 
 
 
 
 
-![DJI_0053](https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG)
