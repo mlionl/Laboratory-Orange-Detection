@@ -2,7 +2,11 @@
 
 ## *Description*
 
-Inspired by some works and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approach to an estimation system for localization adn counting oranges is the main objective of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. Images were took by a drone.
+Inspired by some works and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approach to an estimation system for localization adn counting oranges is the main objective of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. 
+
+## * Data*
+
+Images were taken by a drone, because time limitations I only labeled 13 images using Labelme Tool. I labeled fruits of the tree one by one with a rectangular label.
 
 *Some examples of the data:*
 
