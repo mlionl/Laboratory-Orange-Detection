@@ -2,9 +2,9 @@
 
 ## *Description*
 
-Inspired by some works and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approximation to an estimation system for oranges is the main objective of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. Images were took by a drone.
+Inspired by some works and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approach to an estimation system for localization adn counting oranges is the main objective of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. Images were took by a drone.
 
-Some examples of images taken:
+Some examples of the data:
 
 
 <p float="left">
