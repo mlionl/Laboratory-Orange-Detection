@@ -6,7 +6,7 @@ Inspired by some works and articles, I took pictures of citrus trees in a countr
 
 ## *Data*
 
-Images were taken by a drone, because time limitations I only labeled 13 images using Labelme Tool. I labeled fruits of the tree one by one with a rectangular label.
+Images were taken by a drone, because time limitations I only labeled 13 images using Labelme Tool. I labeled fruits of the tree one by one using rectangular mode.
 
 *Some examples of the data:*
 
