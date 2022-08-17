@@ -11,8 +11,8 @@ Images were took by a drone, some exaples bellow:
 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG" width="100" />
-  <img src="https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG" width="100" /> 
-  <img src="https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG" width="100" />
+  <img src="https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG" width="500" />
+  <img src="https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG" width="500" />
 </p>
 
