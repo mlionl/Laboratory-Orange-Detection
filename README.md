@@ -2,7 +2,7 @@
 
 ## *Description*
 
-Inspired by some papers and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approach to an estimation system for localization and counting oranges is the main objective of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. 
+Inspired by some papers and articles, I took pictures of citrus trees in a countryside near Seville during the harvest season. Establishing a first approach of a system for localization and estimating the number of oranges is the main goal of this repository. Estimating the number of fruits is a really complex task that is carried out by very experienced farmers. It is a crucial task so a more efficient estimation method could be beneficial for the farmer. 
 
 ## *Data*
 
