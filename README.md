@@ -54,7 +54,7 @@ More information: https://github.com/wkentaro/labelme
 
 ## *Model*
 
-
+Detectron2 was the model implemented. 
 
 
 
