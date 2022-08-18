@@ -6,10 +6,9 @@ Inspired by some papers and articles, I took pictures of citrus trees in a count
 
 ## *Data*
 
-Images were taken by a drone, because time limitations I only labeled 13 images using Labelme Tool. I labeled fruits of the tree one by one using rectangular mode.
+Images were taken by a drone, due to time and resources limitations I only labeled 13 images using Labelme Tool. I labeled each fruits of the trees one by one using rectangular mode. So at the end, I got 13 json files that represent the coordenates of each fruits.
 
 *Some examples of the data:*
-
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/102746511/185049214-bc091664-866f-473a-8054-b515afe555fc.JPG" width="240" />
@@ -20,6 +19,7 @@ Images were taken by a drone, because time limitations I only labeled 13 images 
 
 ### *Labeling process*
 
+Labelme is an
 
 
 
