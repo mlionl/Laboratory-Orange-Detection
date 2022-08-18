@@ -39,6 +39,9 @@ Labelme is an open source tool for labeling images. I created rectangular labels
       "shape_type": "rectangle",
       "flags": {}
     }
+    ...
+    ...
+    ...
 ```
 
 - Label: Name of label.
