@@ -22,7 +22,6 @@ Images were taken by a drone, due to time and resources limitations I only label
 Labelme is an open source tool for labeling images. I created rectangular labels so I got 13 json files with follow structure:
 
 
-````
 ```
    {
       "label": "naranja",
@@ -41,7 +40,7 @@ Labelme is an open source tool for labeling images. I created rectangular labels
       "flags": {}
     }
 ```
-````
+
 
 
 
