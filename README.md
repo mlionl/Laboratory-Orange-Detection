@@ -19,7 +19,29 @@ Images were taken by a drone, due to time and resources limitations I only label
 
 ### *Labeling process*
 
-Labelme is an
+Labelme is an open source tool for labeling images. I created rectangular labels so I got 13 json files with follow structure:
+
+
+````
+```
+   {
+      "label": "naranja",
+      "points": [
+        [
+          2251.1627906976746,
+          705.2093023255815
+        ],
+        [
+          2355.813953488372,
+          816.8372093023256
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+```
+````
 
 
 
