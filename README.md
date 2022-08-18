@@ -43,6 +43,9 @@ Labelme is an open source tool for labeling images. I created rectangular labels
 
 - Label: Name of label.
 - Points: Coordenates  [xmin, ymin, xmax, ymax]
+- group_id: --
+- Shape_type: Shape's type of label
+- Flags: --
 
 
 ## *Model*
