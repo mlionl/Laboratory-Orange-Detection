@@ -52,7 +52,7 @@ More information: https://github.com/wkentaro/labelme
 
 ## *Model*
 
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. We can find all resources of Detectron2 at https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md. In this project I implemented an COCO-Detection/faster_rcnn_R_50_FPN_3x model. The election of the model was based on the architecture and the ratio train time, inference time and BOX AP.
+Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. We can find all resources of Detectron2 at https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md. In this project I implemented an COCO-Detection/faster_rcnn_R_50_FPN_3x model. The election of the model was based on the architecture, labeling mode and format,the ratio train time, inference time and BOX AP.
 
 
 
