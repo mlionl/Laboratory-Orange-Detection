@@ -20,8 +20,6 @@ Images were taken by a drone, due to time and resources limitations I only label
 ### *Labeling process*
 
 Labelme is an open source tool for labeling images. I created rectangular labels so I got 13 json files with follow structure:
-
-
 ```
    {
       "label": "naranja",
@@ -41,29 +39,26 @@ Labelme is an open source tool for labeling images. I created rectangular labels
     }
     ...
 ```
-
 - Label: Name of label.
 - Points: Coordenates  [xmin, ymin, xmax, ymax]
 - group_id: --
 - Shape_type: Shape's type of label
 - Flags: --
 
-More information: https://github.com/wkentaro/labelme
+More information: https://github.com/wkentaro/labelme.
+
+The model choosen is fed with labels in coco format so a transformation of the format Labelme a coco is mandatory.
 
 ## *Model*
 
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. We can find all resources of Detectron2 at https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md. In this project I implemented an COCO-Detection/faster_rcnn_R_50_FPN_3x model. The election of the model was based on the architecture, labeling mode and format, the ratio train time-inference time-BOX AP.
+Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. We can find all resources of Detectron2 at https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md. In this project I implemented a COCO-Detection/faster_rcnn_R_50_FPN_3x model. The election of the model was based on the architecture, labeling mode and format, the ratio train time, inference time and BOX AP.
 
-
-
+More information Faster RCNN: https://arxiv.org/abs/1506.01497
 
 ## *Results*
 
 https://user-images.githubusercontent.com/102746511/185192696-3ff55731-2923-49e2-9107-3e25749447dc.mp4
 
 ## *Discussion*
-
-
-
 
 ## *Next steps*
