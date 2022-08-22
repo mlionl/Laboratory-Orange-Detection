@@ -55,7 +55,12 @@ Detectron2 is Facebook AI Research's next generation library that provides state
 
 More information Faster RCNN: https://arxiv.org/abs/1506.01497
 
+## *Training*
+
+
 ## *Results*
+
+![Captura](https://user-images.githubusercontent.com/102746511/185851739-19baf7b8-ca03-4097-a86d-14b367e07ee1.JPG)
 
 https://user-images.githubusercontent.com/102746511/185192696-3ff55731-2923-49e2-9107-3e25749447dc.mp4
 
