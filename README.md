@@ -57,6 +57,21 @@ More information Faster RCNN: https://arxiv.org/abs/1506.01497
 
 ## *Training*
 
+- cfg.OUTPUT_DIR=OUTPUT_DIR -> Out
+- cfg.merge_from_file(model_zoo.get_config_file("COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml")) ->
+- cfg.DATASETS.TRAIN = ("dataset_naranja_train",) ->
+- cfg.DATASETS.TEST = ("dataset_naranja_test",) ->
+- cfg.DATALOADER.NUM_WORKERS = 1 ->
+- cfg.MODEL.WEIGHTS = model_zoo.get_checkpoint_url("COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml") ->
+- cfg.SOLVER.IMS_PER_BATCH = 1 ->
+- cfg.SOLVER.BASE_LR = 0.0025 ->
+- cfg.SOLVER.MAX_ITER = 20000 ->
+- cfg.SOLVER.STEPS = []  ->
+- cfg.MODEL.ROI_HEADS.NUM_CLASSES = 1 ->
+- cfg.SOLVER.CHECKPOINT_PERIOD = 1000 ->
+- cfg.MODEL.ROI_HEADS.BATCH_SIZE_PER_IMAGE = 100 ->
+- cfg.TEST.EVAL_PERIOD = 1000 ->
+
 
 ## *Results*
 
