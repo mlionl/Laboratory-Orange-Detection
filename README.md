@@ -56,7 +56,7 @@ Detectron2 is Facebook AI Research's next generation library that provides state
 More information Faster RCNN: https://arxiv.org/abs/1506.01497
 
 ## *Training*
-
+```
 - cfg.OUTPUT_DIR=OUTPUT_DIR -> Out
 - cfg.merge_from_file(model_zoo.get_config_file("COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml")) ->
 - cfg.DATASETS.TRAIN = ("dataset_naranja_train",) ->
@@ -71,7 +71,7 @@ More information Faster RCNN: https://arxiv.org/abs/1506.01497
 - cfg.SOLVER.CHECKPOINT_PERIOD = 1000 ->
 - cfg.MODEL.ROI_HEADS.BATCH_SIZE_PER_IMAGE = 100 ->
 - cfg.TEST.EVAL_PERIOD = 1000 ->
-
+```
 
 ## *Results*
 
