@@ -47,7 +47,7 @@ Labelme is an open source tool for labeling images. I created rectangular labels
 
 More information: https://github.com/wkentaro/labelme.
 
-The model choosen is fed with labels in coco format so a transformation of the format Labelme a coco is mandatory.
+The model choosen is fed with labels in coco format so a transformation of the format Labelme to coco is mandatory.
 
 ## *Model*
 
@@ -56,6 +56,9 @@ Detectron2 is Facebook AI Research's next generation library that provides state
 More information Faster RCNN: https://arxiv.org/abs/1506.01497
 
 ## *Training*
+
+The training was running on Google Collab, using GPU to speed up the process. I set these parameters:
+
 ```
 - cfg.OUTPUT_DIR=OUTPUT_DIR -> Out
 - cfg.merge_from_file(model_zoo.get_config_file("COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml")) ->
