@@ -85,6 +85,10 @@ The training was running on Google Collab, using GPU to speed up the process. I 
 | 15.703 | 50.659 | 3.366  | 0.000 | 16.093 | 15.875 |
 
 
+Coco format has an specific evaluation method. Average precision is the main metric for evaluate this problems, for more info about it: https://cocodataset.org/#detection-eval
+
+AP could take values form 0 to 100. At this point, General AP is 15,703%. AP50 means the AP whe Intersection Over Union (Threshold) is 0.5. AP50 is 50.659%.
+
 https://user-images.githubusercontent.com/102746511/185192696-3ff55731-2923-49e2-9107-3e25749447dc.mp4
 
 ## *Discussion*
